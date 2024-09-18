@@ -94,7 +94,7 @@ section h2 {
 }
 
 footer {
-    background-color: #4A4A4A; /*#000000;*/
+    background-color: #000000;
     color: #FFFFFF;
     text-align: center;
     padding: 10px;
@@ -127,4 +127,11 @@ footer {
     nav ul li a {
         width: 100%;
     }
+
 }
+
+
+section {
+    max-width: 90%;
+}
+
